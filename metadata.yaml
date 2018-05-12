@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4672
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Murray_%28minister%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41994#Money--Thoughts-for-God-s-Stewards
 gutenberg_issued: '2013-02-03'
 gutenberg_type: Text
 identifiers:
