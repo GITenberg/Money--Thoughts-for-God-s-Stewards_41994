@@ -1,0 +1,28 @@
+_repo: Money--Thoughts-for-God-s-Stewards_41994
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41994-h/images/img_cover.jpg
+creator:
+  author:
+    agent_name: Murray, Andrew
+    birthdate: 1828
+    deathdate: 1917
+    gutenberg_agent_id: '4672'
+    url: http://www.gutenberg.org/2009/agents/4672
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Murray_%28minister%29
+description: ''
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41994'
+  lccn: '40023867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Christian stewardship'
+title: 'Money: Thoughts for God''s Stewards'
+url: http://www.gutenberg.org/ebooks/41994
